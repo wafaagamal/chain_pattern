@@ -2,6 +2,8 @@ This is an implementation of chain of responsibilites design pattern in nodejs.
 
 ### Installation 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wafaagamal/chain_pattern.svg)](https://greenkeeper.io/)
+
 ```
 npm install chain_patternx
 ```
